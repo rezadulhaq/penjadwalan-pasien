@@ -1,0 +1,23 @@
+[
+    {
+      "PhysioId": 1,
+      "balance": 5000
+    },
+    {
+      "PhysioId": 2,
+      "balance": 8000
+    },
+    {
+      "PhysioId": 3,
+      "balance": 6000
+    },
+    {
+      "PhysioId": 4,
+      "balance": 7500
+    },
+    {
+      "PhysioId": 5,
+      "balance": 9000
+    }
+  ]
+  

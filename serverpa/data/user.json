@@ -1,0 +1,11 @@
+[
+    {
+        "name":"Administrator",
+        "username":"Administrator",
+        "email":"administrator@mail.com",
+        "password":"Administrator",
+        "phoneNumber":"0839487932874",
+        "address":"BSD",
+        "role":"Administrator"
+    }
+]

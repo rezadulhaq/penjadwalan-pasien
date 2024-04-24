@@ -1,0 +1,32 @@
+[
+    {
+        "name": "dr.Ibrahim",
+        "registrationNumber": 1,
+        "phoneNumber": "082938299329"
+    },
+    {
+        "name": "dr.Ismail",
+        "registrationNumber": 2,
+        "phoneNumber": "082938299329"
+    },
+    {
+        "name": "dr.Usman",
+        "registrationNumber": 3,
+        "phoneNumber": "082938299329"
+    },
+    {
+        "name": "dr.Yaqub",
+        "registrationNumber": 4,
+        "phoneNumber": "082938299329"
+    },
+    {
+        "name": "dr.Musa",
+        "registrationNumber": 5,
+        "phoneNumber": "082938299329"
+    },
+    {
+        "name": "dr.Harun",
+        "registrationNumber": 6,
+        "phoneNumber": "082938299329"
+    }
+]
